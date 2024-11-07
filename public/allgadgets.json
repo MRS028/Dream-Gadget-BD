@@ -1,0 +1,194 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.postimg.cc/524NWkZD/Samsung-Galaxy-S21.jpg",
+        "category": "Mobile",
+        "price": 750,
+        "description": "High-end Samsung smartphone with excellent camera.",
+        "Specification": {
+            "1": "128GB Storage",
+            "2": "8GB RAM",
+            "3": "5G Support",
+            "4": "4000mAh Battery"
+        },
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "product_title": "Apple iPhone 13",
+        "product_image": "https://i.postimg.cc/g0B0DqtQ/Apple-i-Phone-13.webp",
+        "category": "iphone",
+        "price": 999,
+        "description": "Latest Apple iPhone with A15 Bionic chip.",
+        "Specification": {
+            "1": "256GB Storage",
+            "2": "4GB RAM",
+            "3": "Face ID",
+            "4": "6.1-inch Display"
+        },
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://i.postimg.cc/4NbNMTFz/Mac-Book-Pro-14.jpg",
+        "category": "Macbook",
+        "price": 1999,
+        "description": "Powerful MacBook for professionals with M1 Pro chip.",
+        "Specification": {
+            "1": "512GB SSD",
+            "2": "16GB RAM",
+            "3": "Liquid Retina Display",
+            "4": "10-Core CPU"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 4,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.postimg.cc/J0j4Rw7C/Dell-XPS-13.webp",
+        "category": "Laptop",
+        "price": 1200,
+        "description": "High-performance laptop with ultra-thin design.",
+        "Specification": {
+            "1": "512GB SSD",
+            "2": "16GB RAM",
+            "3": "InfinityEdge Display",
+            "4": "Intel i7 Processor"
+        },
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 5,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://i.postimg.cc/k46gh6k4/Apple-Watch-Series-7.jpg",
+        "category": "Smartwatch",
+        "price": 399,
+        "description": "Smartwatch with larger, more durable display.",
+        "Specification": {
+            "1": "GPS",
+            "2": "Heart Rate Monitor",
+            "3": "Water Resistant",
+            "4": "Always On Retina Display"
+        },
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 6,
+        "product_title": "Google Pixel 6",
+        "product_image": "https://i.postimg.cc/jqfjHfH3/Google-Pixel-6.jpg",
+        "category": "Mobile",
+        "price": 700,
+        "description": "Google's latest smartphone with custom Tensor chip.",
+        "Specification": {
+            "1": "128GB Storage",
+            "2": "8GB RAM",
+            "3": "5G Support",
+            "4": "50MP Camera"
+        },
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 7,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.postimg.cc/L6M8Nsv9/HP-Spectre-x360.jpg",
+        "category": "Laptop",
+        "price": 1300,
+        "description": "Convertible laptop with touch screen and stylus support.",
+        "Specification": {
+            "1": "512GB SSD",
+            "2": "16GB RAM",
+            "3": "4K Touch Display",
+            "4": "Intel i7 Processor"
+        },
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 8,
+        "product_title": "Galaxy Watch 4",
+        "product_image": "https://i.postimg.cc/52s94SJy/Samsung-Galaxy-Watch.webp",
+        "category": "Smartwatch",
+        "price": 249,
+        "description": "Smartwatch powered by Wear OS with health tracking.",
+        "Specification": {
+            "1": "Heart Rate Monitor",
+            "2": "Sleep Tracking",
+            "3": "GPS",
+            "4": "AMOLED Display"
+        },
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 9,
+        "product_title": "Apple MacBook Air M1",
+        "product_image": "https://i.postimg.cc/YS23gkT8/mackbook-air.jpg",
+        "category": "Macbook",
+        "price": 999,
+        "description": "Lightweight and powerful MacBook with M1 chip.",
+        "Specification": {
+            "1": "256GB SSD",
+            "2": "8GB RAM",
+            "3": "Retina Display",
+            "4": "Apple M1 Chip"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 10,
+        "product_title": "Apple iPhone 14",
+        "product_image": "https://i.postimg.cc/7h8h4wzw/i-Phone-14.webp",
+        "category": "iphone",
+        "price": 1099,
+        "description": "Apple iPhone with A16 Bionic chip and improved camera.",
+        "Specification": {
+            "1": "512GB Storage",
+            "2": "6GB RAM",
+            "3": "5G Support",
+            "4": "Dual 12MP Cameras"
+        },
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 11,
+        "product_title": "Apple iPhone 12 Pro Max",
+        "product_image": "https://i.postimg.cc/G2st6HHX/iphone-12-pro.jpg",
+        "category": "iphone",
+        "price": 1099,
+        "description": "Flagship Apple iPhone with Pro camera system.",
+        "Specification": {
+            "1": "128GB Storage",
+            "2": "6GB RAM",
+            "3": "Face ID",
+            "4": "Ceramic Shield"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 12,
+        "product_title": "Fitbit Sense Smartwatch",
+        "product_image": "https://i.postimg.cc/5tX2F6qf/Fitbit-Sense-2.jpg",
+        "category": "Smartwatch",
+        "price": 299,
+        "description": "Smartwatch with health tracking, ECG and stress management.",
+        "Specification": {
+            "1": "ECG Monitoring",
+            "2": "Sleep Tracking",
+            "3": "GPS",
+            "4": "Stress Management"
+        },
+        "availability": true,
+        "rating": 4.6
+    }
+]
