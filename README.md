@@ -1,4 +1,4 @@
-# 🛍️ Product Showcase
+# 🛍️ Dream Gadget-BD
 
 **Product Showcase** is a project designed to beautifully display a variety of products, complete with details for each item. Users can browse different categories such as Mobile, Laptop, Smartwatch, and more. They can view detailed information about each product and add items to their Cart or Wishlist with ease.
 
